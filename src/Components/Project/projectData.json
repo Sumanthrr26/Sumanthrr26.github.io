@@ -1,0 +1,56 @@
+[
+  {
+    "images": ["/Images/Ecotourism/Ecotourism.png"],
+    "title": "Ecotoursim website",
+    "description": "Crafted a Ecooursirm website based on template.Collaborated with 4 team members to complete the project within 4 days.Responsible for designing and developing the Packages Page and also for this frontend i have made changes to how you input data and store it in backend as well.",
+    "type": "Group",
+    "members": "3",
+    "duration": "05",
+    "tech_stack": "ReactJS | CSS | JavaScript | Chakra UI | NODEJS | EXPRESS | MONGODB | JWT ",
+    "github": "https://github.com/Sumanthrr26/EcoTourism-frontend",
+    "deployed_link": "https://eco-tourism-frontend.vercel.app/",
+    "video_link": ""
+  },
+  {
+    "images": ["/Images/portfolio/port.png"],
+    "title": "My Portfolio",
+    "description": "This is my fully responsive portfolio which I made using ReactJS and Chakra UI. This website have some functionalities like Scrolling.",
+    "type": "Individual",
+    "members": "1",
+    "duration": "04",
+    "tech_stack": "ReactJS | CSS | JavaScript | Chakra UI",
+    "github": "https://github.com/HelloKaushal750/HelloKaushal750.github.io",
+    "deployed_link": "https://hellokaushal750.github.io/",
+    "video_link": ""
+  },
+  {
+    "images": ["/Images/Triavago/Trivago-Home.png"],
+    "title": "Trivago.in - Traveling Clone",
+    "description": "Replicated Trivago.in, a meta search engine that compares accommodation prices from various online booking sites. Part of a 5-member team that completed the project in just 4 days.Contributed to the Product Page and implemented cart functionality for smooth payment processes.",
+    "type": "Group",
+    "members": "5",
+    "duration": "05",
+    "tech_stack": "HTML | CSS | JavaScript | JSON Server | LocalStorage | BootStrap",
+    "github": "https://github.com/mithunsen04/Trivago.in_Clone",
+    "deployed_link": "https://majestic-paletas-0904b9.netlify.app/index.html",
+    "video_link": ""
+  },
+  {
+    "images": [
+      "/Images/Netmeds/home.png",
+      "/Images/Netmeds/product.png",
+      "/Images/Netmeds/description.png",
+      "/Images/Netmeds/cart.png",
+      "/Images/Netmeds/payment.png"
+    ],
+    "title": "Netmeds",
+    "description": "Netmeds.com is one of India's most trusted pharmacies, dispensing quality medicines at reasonable prices to over 7 million happy customers – PAN India. On this website, I have built 'Product Description' page, 'Cart' and 'Payment' page.",
+    "type": "Group",
+    "members": "4",
+    "duration": "05",
+    "tech_stack": "HTML | CSS | JavaScript | JSON Server",
+    "github": "https://github.com/HelloKaushal750/Netmeds-Masai-Clone",
+    "deployed_link": "https://647ee6478817b47a9778047e--celebrated-valkyrie-56babf.netlify.app/",
+    "video_link": ""
+  }
+]
